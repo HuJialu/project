@@ -1,0 +1,29 @@
+ABR name: dynamic
+buffer size: 25000
+total played utility: 123.665837
+time average played utility: 0.619483
+total played bitrate: 446500.000000
+time average played bitrate: 2236.664963
+total play time: 598.882721
+total play time chunks: 199.627574
+total rebuffer: 1.098173
+rebuffer ratio: 0.001834
+time average rebuffer: 0.005501
+total rebuffer events: 1.000000
+time average rebuffer events: 0.005009
+total bitrate change: 130000.000000
+time average bitrate change: 651.212643
+total log bitrate change: 66.067799
+time average log bitrate change: 0.330955
+time average score: 0.610314
+over estimate count: 186
+over estimate: 391.011203
+leq estimate count: 61
+leq estimate: 1112.160753
+estimate: 19.782501
+rampup time: 3.784549
+total reaction time: 0.000000
+total predicted bandwidth: 589000
+total real bandwidth: 579274
+bandwidth utilization: 1.016789
+Quality of Experience: 316495

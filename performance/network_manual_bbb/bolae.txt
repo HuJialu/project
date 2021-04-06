@@ -1,0 +1,29 @@
+ABR name: bolae
+buffer size: 25000
+total played utility: 484.965479
+time average played utility: 2.435983
+total played bitrate: 579714.000000
+time average played bitrate: 2911.905206
+total play time: 597.252272
+total play time chunks: 199.084091
+total rebuffer: 0.000000
+rebuffer ratio: 0.000000
+time average rebuffer: 0.000000
+total rebuffer events: 0.000000
+time average rebuffer events: 0.000000
+total bitrate change: 80654.000000
+time average bitrate change: 405.125290
+total log bitrate change: 30.659220
+time average log bitrate change: 0.154001
+time average score: 2.435983
+over estimate count: 88
+over estimate: 334.347196
+leq estimate count: 110
+leq estimate: 689.183814
+estimate: -234.281143
+rampup time: 3.252272
+total reaction time: 61.261360
+total predicted bandwidth: 579714
+total real bandwidth: 641503
+bandwidth utilization: 0.903680
+Quality of Experience: 499060

@@ -1,0 +1,29 @@
+ABR name: throughput
+buffer size: 25000
+total played utility: 87.963910
+time average played utility: 0.441450
+total played bitrate: 343000.000000
+time average played bitrate: 1721.355967
+total play time: 597.784549
+total play time chunks: 199.261516
+total rebuffer: 0.000000
+rebuffer ratio: 0.000000
+time average rebuffer: 0.000000
+total rebuffer events: 0.000000
+time average rebuffer events: 0.000000
+total bitrate change: 15000.000000
+time average bitrate change: 75.277958
+total log bitrate change: 9.162907
+time average log bitrate change: 0.045984
+time average score: 0.441450
+over estimate count: 130
+over estimate: 640.590724
+leq estimate count: 102
+leq estimate: 1068.024113
+estimate: -110.610627
+rampup time: 3.784549
+total reaction time: 125.000000
+total predicted bandwidth: 428000
+total real bandwidth: 693008
+bandwidth utilization: 0.617597
+Quality of Experience: 328000

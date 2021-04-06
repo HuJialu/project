@@ -1,0 +1,29 @@
+ABR name: pensieve_a3c
+buffer size: 25000
+total played utility: 411.729425
+time average played utility: 2.067826
+total played bitrate: 1585000.000000
+time average played bitrate: 7960.334138
+total play time: 597.336735
+total play time chunks: 199.112245
+total rebuffer: 0.000000
+rebuffer ratio: 0.000000
+time average rebuffer: 0.000000
+total rebuffer events: 0.000000
+time average rebuffer events: 0.000000
+total bitrate change: 7000.000000
+time average bitrate change: 35.156050
+total log bitrate change: 2.079442
+time average log bitrate change: 0.010444
+time average score: 2.067826
+over estimate count: 79
+over estimate: 7810.887972
+leq estimate count: 119
+leq estimate: 12588.787536
+estimate: -4449.523065
+rampup time: 372.336735
+total reaction time: 89.998000
+total predicted bandwidth: 1585000
+total real bandwidth: 8517684
+bandwidth utilization: 0.186083
+Quality of Experience: 1578000

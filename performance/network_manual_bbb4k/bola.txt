@@ -1,0 +1,29 @@
+ABR name: bola
+buffer size: 25000
+total played utility: 186.585910
+time average played utility: 0.936387
+total played bitrate: 585000.000000
+time average played bitrate: 2935.840352
+total play time: 597.784549
+total play time chunks: 199.261516
+total rebuffer: 0.000000
+rebuffer ratio: 0.000000
+time average rebuffer: 0.000000
+total rebuffer events: 0.000000
+time average rebuffer events: 0.000000
+total bitrate change: 160000.000000
+time average bitrate change: 802.964883
+total log bitrate change: 66.879529
+time average log bitrate change: 0.335637
+time average score: 0.936387
+over estimate count: 109
+over estimate: 320.602828
+leq estimate count: 105
+leq estimate: 653.163558
+estimate: -157.179745
+rampup time: 6.784549
+total reaction time: 0.000000
+total predicted bandwidth: 652500
+total real bandwidth: 678131
+bandwidth utilization: 0.962202
+Quality of Experience: 425000
